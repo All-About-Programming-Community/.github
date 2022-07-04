@@ -1,18 +1,18 @@
 ## Hey Folks 👋👋
 
-<h2> 🙋‍ <ins> About Us! </ins> </h2>
+<h2> 🙋‍ About Us!! </h2>
 
 <p>
     ⭐ We are a group of Tech Enthusiasts who love to share our Knowledge with others. <br>
-</p>
+</p> <br />
 
-<h2> 👨‍💻👩‍💻 <ins> Who is this Community for? </ins> </h2>
+<h2> 👨‍💻 Who is this Community for? </h2>
 
-<h2> 👭 <ins> With whom we are Collabrated ? </ins></h2>
+<h2> 👭 With whom we are Collabrated ? </h2>
 
-<h2> 🔰 <ins> What are the perks of being a part of the Community? </ins> </h2>
+<h2> 🔰 What are the perks of being a part of the Community? </h2>
 
-<h2> 🕑 <ins> Do I have to pay something for being a part of this Community? </ins> </h2>
+<h2> 🕑 Do I have to pay something for being a part of this Community? </h2>
 
 <h2> 🌈 Contribution guidelines - how can you get involved? </h2>
 
