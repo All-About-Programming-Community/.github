@@ -12,7 +12,7 @@
     <li> 1. Join the All About Programming GitHub Org by raising an <a> issue </a> (you will be sent an invitation) </li>
     <li> 2. Join our All About Programming <a> Discord </a> Community, where you can chat with the community and also ask any questions. </li>
 </ul>
-<p> Learn more about Us on <a href=""> Our Offical Website </a> </p>
+<p> Learn more about Us on <a href="gndu.club/All-About-Programming"> Our Offical Website </a> </p>
 </p>
 
 
