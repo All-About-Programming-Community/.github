@@ -40,7 +40,6 @@ Keep tabs on new and upcoming releases on [The Resource Page](https://github.com
 Head over to our [Documentation](), visit our [blog](), and check out our [YouTube Channel]() for Interesting tutorials, Development stories, and Platform updates.
 
 # Get Involved 📈
-----
 Right now, Our Community is working on building some Amazing Projects Together, and there are excellent "Good First Issue" opportunities, if you're looking to get involved.
 
 - Feel free to contribute to any of our repositories. Check them out on our [GitHub](https://github.com/orgs/All-About-Programming-Community/repositories).
@@ -48,7 +47,7 @@ Right now, Our Community is working on building some Amazing Projects Together, 
 # Contribute to Our Projects ✨
 We value the many contributions from our community of users. Whether they’re to the Docs, Open Source Projects, or more, these contributions improve the experience of other users. We welcome contributions of all kinds, and you don’t have to code to be helpful.
 
-**[Contribute to All About Programming →](gndu.club/All-About-Programming)**
+**[Contribute to All About Programming →](https://gndu.club/All-About-Programming/)**
 
 By contributing to Open-Source projects, you're shaping the core of All About Programming, bettering both your and other users ability to utilize day-to-day.
 
@@ -66,7 +65,7 @@ Open-Source Projects | Description |
     <li> 2. Join our All About Programming <a> Discord </a> Community, where you can chat with the community and also ask any questions. </li>
     
 </ul>
-<p> Learn more about Us on <a href="gndu.club/All-About-Programming"> Our Offical Website </a> </p>
+<p> Learn more about Us on <a href="https://gndu.club/All-About-Programming/"> Our Offical Website </a> </p>
 
 
 
