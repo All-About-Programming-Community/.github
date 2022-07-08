@@ -1,7 +1,8 @@
 <!-- First Panel (Social Icons) -->
+
 <h3 align="center">
-    🎉 Welcome to All About Programming 🎉
-</h3>
+    🎉 Welcome to All About Programming 🎉 
+</h3> <br />
     <p align = "center">
     <a href="" /></a>
 </p>
@@ -14,7 +15,6 @@
 </div>
 <br>
 
-<!-- Second Panel (About US) -->
 <div align="center">
     <h1> All About Programming - Collaboration 1st, Code 2nd!! </h1>
     <p> Here, Right now on <b> Your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community! </p>
@@ -39,12 +39,12 @@ Keep tabs on new and upcoming releases on [The Resource Page](https://github.com
 ### Documentation and tutorials 📜
 Head over to our [Documentation](), visit our [blog](), and check out our [YouTube Channel]() for Interesting tutorials, Development stories, and Platform updates.
 
-# Get Involved 📈
+### Get Involved 📈
 Right now, Our Community is working on building some Amazing Projects Together, and there are excellent "Good First Issue" opportunities, if you're looking to get involved.
 
 - Feel free to contribute to any of our repositories. Check them out on our [GitHub](https://github.com/orgs/All-About-Programming-Community/repositories).
 
-# Contribute to Our Projects ✨
+### Contribute to Our Projects ✨
 We value the many contributions from our community of users. Whether they’re to the Docs, Open Source Projects, or more, these contributions improve the experience of other users. We welcome contributions of all kinds, and you don’t have to code to be helpful.
 
 **[Contribute to All About Programming →](https://gndu.club/All-About-Programming/)**
@@ -58,7 +58,7 @@ Open-Source Projects | Description |
 [Resource Page](https://github.com/All-About-Programming-Community/Resource_Page) | Resource Page - A Page that Provides Valuable Information. |
 [Learning Center](https://github.com/All-About-Programming-Community/Learning_Center) | The All About Programming Learning Center has all of the resources you need to ramp up quickly and extend your skills. |
 
-# Join Our Organization 🤝
+### Join Our Organization 🤝
 <ul>
     <li> 1. Join the GitHub Organization by raising an <a> issue </a> we would love if you join our community! 🙌 <br />
         To join **All About Programming**, fill in this [issue]() form and open it.(you will be sent an invitation) </li>
