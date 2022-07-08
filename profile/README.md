@@ -19,6 +19,11 @@
     <h1> All About Programming - Collaboration 1st, Code 2nd!! </h1>
     <p> Here, Right now on <b> Your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community! </p>
     <p> This organisation is the home of <i> open source </i>! Make Pull Requests, open Issues, share ideas, help each other and make improvements! </p>
+    
+    <h4 align="center"> All About Programming is a non-commercial organisation with a goal to provide a platform for Programmers & Developers everywhere to meet, compete & have fun. </h4>
+
+> At All About Programming, we believe in the words of Matt Mullenweg - “Technology is best when it brings people together”.
+    
     <p> AAP - All About Programming is an open source community run by Awesome Students & early careers from our Community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, Resume Reviews, and much more 🚀 Come hang out with us and let's make open source a better place. 🔥</p>
 
 </div>
@@ -34,6 +39,12 @@
 <p> Learn more about Us on <a href="gndu.club/All-About-Programming"> Our Offical Website </a> </p>
 </p>
 
+<!-- Fourth Panel -->
+Get Involved
+----
+Right now, Our Community is working on building some Amazing Projects Together, and there are excellent "Good First Issue" opportunities, if you're looking to get involved.
+
+- Feel free to contribute to any of our repositories. Check them out on our [GitHub]([https://github.com/orgs/CodeChefVIT/repositories](https://github.com/orgs/All-About-Programming-Community/repositories)).
 
 <!-- 
 <h2> 🙋‍ About Us!! </h2>
