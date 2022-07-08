@@ -1,6 +1,5 @@
 <!-- First Panel -->
-<
-h3 align="center">
+<h3 align="center">
     🎉 Welcome to All About Programming 🎉
 </h3>
     <p align = "center">
@@ -20,15 +19,15 @@ h3 align="center">
     <h1> All About Programming - Collaboration 1st, Code 2nd!! </h1>
     <p> Here, Right now on <b> Your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community! </p>
     <p> This organisation is the home of <i> open source </i>! Make Pull Requests, open Issues, share ideas, help each other and make improvements! </p>
-    <p> AAP - All About Programming is an open source community run by Awesome Students & early careers from our Community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, Resume Reviews, and much more 🚀 Come hang out with us and let's make open source a better place 🔥 Join to our [Discord](https://discord.gg/BKKNwtpXU5) community and follow us on [Twitter](https://twitter.com/ShahzaibFardeen) to stay tuned about new announcements, projects, and much more. 💥 </p>
+    <p> AAP - All About Programming is an open source community run by Awesome Students & early careers from our Community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, Resume Reviews, and much more 🚀 Come hang out with us and let's make open source a better place. 🔥</p>
 
 </div>
 
 <!-- Third Panel -->
 <h2> Suggested steps to get yourself Started </h2>
 <ul>
-    <li> 1. Join the GitHub Organization by raising an <a> issue </a> we would love if you join our community! 🙌 To join **All About Programming**, fill in this [issue]() form and open it. After that, you should make your membership public so everyone can know you're part of **All About Programming**! 
-        (you will be sent an invitation) </li>
+    <li> 1. Join the GitHub Organization by raising an <a> issue </a> we would love if you join our community! 🙌 <br />
+        To join **All About Programming**, fill in this [issue]() form and open it.(you will be sent an invitation) </li>
     <li> 2. Join our All About Programming <a> Discord </a> Community, where you can chat with the community and also ask any questions. </li>
     
 </ul>
@@ -36,8 +35,8 @@ h3 align="center">
 </p>
 
 
+<!-- 
 <h2> 🙋‍ About Us!! </h2>
-
 <p>
     ⭐ We are a group of Tech Enthusiasts who love to share our Knowledge with others. <br>
 </p> <br />
@@ -53,7 +52,5 @@ h3 align="center">
 <h2> 🌈 Contribution guidelines - how can you get involved? </h2>
 
 <h2 align="center"> 🔗 Connect with Us </h2>
-
-<!--
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 -->
