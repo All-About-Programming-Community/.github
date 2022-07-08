@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-    <h1> All About Programming - Collaboration 1st, Code 2nd!! </h1>
+    <h2> All About Programming - Collaboration 1st, Code 2nd!! </h2>
     <p> Here, Right now on <b> Your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community! </p>
     <p> This organisation is the home of <i> open source </i>! Make Pull Requests, open Issues, share ideas, help each other and make improvements! </p>
 </div>  
