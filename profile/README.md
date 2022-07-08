@@ -1,4 +1,4 @@
-<!-- First Panel -->
+<!-- First Panel (Social Icons) -->
 <h3 align="center">
     🎉 Welcome to All About Programming 🎉
 </h3>
@@ -14,19 +14,20 @@
 </div>
 <br>
 
-<!-- Second Panel -->
+<!-- Second Panel (About US) -->
 <div align="center">
     <h1> All About Programming - Collaboration 1st, Code 2nd!! </h1>
     <p> Here, Right now on <b> Your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community! </p>
     <p> This organisation is the home of <i> open source </i>! Make Pull Requests, open Issues, share ideas, help each other and make improvements! </p>
-    
+</div>  
+
     <h4 align="center"> All About Programming is a non-commercial organisation with a goal to provide a platform for Programmers & Developers everywhere to meet, compete & have fun. </h4>
 
 > At All About Programming, we believe in the words of Matt Mullenweg - “Technology is best when it brings people together”.
-    
-    <p> AAP - All About Programming is an open source community run by Awesome Students & early careers from our Community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, Resume Reviews, and much more 🚀 Come hang out with us and let's make open source a better place. 🔥</p>
 
-</div>
+<div>    
+    <p> AAP - All About Programming is an open source community run by Awesome Students & early careers from our Community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, Resume Reviews, and much more 🚀 Come hang out with us and let's make open source a better place. 🔥</p>
+</ div>    
 
 <!-- Third Panel -->
 <h2> Suggested steps to get yourself Started </h2>
