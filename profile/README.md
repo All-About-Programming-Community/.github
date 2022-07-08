@@ -1,8 +1,8 @@
 <!-- First Panel (Social Icons) -->
 
-<h3 align="center">
+<h2 align="center">
     🎉 Welcome to All About Programming 🎉 
-</h3> <br />
+</h2> <br />
     <p align = "center">
     <a href="" /></a>
 </p>
@@ -25,7 +25,7 @@
 
 
 <!-- Details About Us -->
-# Welcome to All About Programming 🚀
+### Welcome to All About Programming 🚀
 All About Programming is a non-commercial organisation with a goal to provide a platform for Programmers & Developers everywhere to meet, compete & have fun.
 
 <p> AAP - All About Programming is an open source community run by Awesome Students & early careers from our Community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, Resume Reviews, and much more 🚀 Come hang out with us and let's make open source a better place. 🔥</p>
